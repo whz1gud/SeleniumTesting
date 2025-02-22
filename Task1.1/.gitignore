@@ -1,0 +1,32 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio temporary files, build results, and
+# user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of PackageReference
+packages/
+
+# Dotnet tools
+.dotnet/
+
+# Rider specific files
+.idea/
+*.sln.iml
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
