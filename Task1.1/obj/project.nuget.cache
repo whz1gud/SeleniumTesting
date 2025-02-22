@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9WHz0/7+hsY=",
+  "dgSpecHash": "ELUyKaD5gds=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vytit\\RiderProjects\\SeleniumTesting\\Task1.1\\Task1.1.csproj",
+  "projectFilePath": "C:\\Users\\whz1gud\\RiderProjects\\SeleniumTesting\\Task1.1\\Task1.1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\vytit\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
-    "C:\\Users\\vytit\\.nuget\\packages\\selenium.support\\4.28.0\\selenium.support.4.28.0.nupkg.sha512",
-    "C:\\Users\\vytit\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512"
+    "C:\\Users\\whz1gud\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\whz1gud\\.nuget\\packages\\selenium.support\\4.28.0\\selenium.support.4.28.0.nupkg.sha512",
+    "C:\\Users\\whz1gud\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512"
   ],
   "logs": []
 }

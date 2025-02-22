@@ -4,12 +4,10 @@ namespace Task3.Base;
 
 public class UserConfigManager
 {
-    private static readonly string FilePath =
-        Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Config", "UserCredentials.json");
+    private static readonly string FilePath = "C:\\Users\\whz1gud\\RiderProjects\\SeleniumTesting\\Task3\\Config\\UserCredentials.json";
 
     public static bool CredentialsExist()
     {
-        Console.WriteLine(FilePath);
         return File.Exists(FilePath) && !string.IsNullOrWhiteSpace(File.ReadAllText(FilePath));
     }
 

@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "EUbf0SUtl+s=",
+  "dgSpecHash": "CDEVNgZK7uE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vytit\\RiderProjects\\SeleniumTesting\\Task3\\Task3.csproj",
+  "projectFilePath": "C:\\Users\\whz1gud\\RiderProjects\\SeleniumTesting\\Task3\\Task3.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\vytit\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
-    "C:\\Users\\vytit\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
-    "C:\\Users\\vytit\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",
-    "C:\\Users\\vytit\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.1\\microsoft.net.test.sdk.17.11.1.nupkg.sha512",
-    "C:\\Users\\vytit\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.11.1\\microsoft.testplatform.objectmodel.17.11.1.nupkg.sha512",
-    "C:\\Users\\vytit\\.nuget\\packages\\microsoft.testplatform.testhost\\17.11.1\\microsoft.testplatform.testhost.17.11.1.nupkg.sha512",
-    "C:\\Users\\vytit\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\vytit\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
-    "C:\\Users\\vytit\\.nuget\\packages\\nunit.analyzers\\4.3.0\\nunit.analyzers.4.3.0.nupkg.sha512",
-    "C:\\Users\\vytit\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
-    "C:\\Users\\vytit\\.nuget\\packages\\selenium.support\\4.28.0\\selenium.support.4.28.0.nupkg.sha512",
-    "C:\\Users\\vytit\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512",
-    "C:\\Users\\vytit\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+    "C:\\Users\\whz1gud\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\whz1gud\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\whz1gud\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",
+    "C:\\Users\\whz1gud\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.1\\microsoft.net.test.sdk.17.11.1.nupkg.sha512",
+    "C:\\Users\\whz1gud\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.11.1\\microsoft.testplatform.objectmodel.17.11.1.nupkg.sha512",
+    "C:\\Users\\whz1gud\\.nuget\\packages\\microsoft.testplatform.testhost\\17.11.1\\microsoft.testplatform.testhost.17.11.1.nupkg.sha512",
+    "C:\\Users\\whz1gud\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\whz1gud\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\whz1gud\\.nuget\\packages\\nunit.analyzers\\4.3.0\\nunit.analyzers.4.3.0.nupkg.sha512",
+    "C:\\Users\\whz1gud\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\whz1gud\\.nuget\\packages\\selenium.support\\4.28.0\\selenium.support.4.28.0.nupkg.sha512",
+    "C:\\Users\\whz1gud\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512",
+    "C:\\Users\\whz1gud\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
 }

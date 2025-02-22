@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vytit\\RiderProjects\\SeleniumTesting\\Task1.1\\Task1.1.csproj": {}
+    "C:\\Users\\whz1gud\\RiderProjects\\SeleniumTesting\\Task1.1\\Task1.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vytit\\RiderProjects\\SeleniumTesting\\Task1.1\\Task1.1.csproj": {
+    "C:\\Users\\whz1gud\\RiderProjects\\SeleniumTesting\\Task1.1\\Task1.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vytit\\RiderProjects\\SeleniumTesting\\Task1.1\\Task1.1.csproj",
+        "projectUniqueName": "C:\\Users\\whz1gud\\RiderProjects\\SeleniumTesting\\Task1.1\\Task1.1.csproj",
         "projectName": "Task1.1",
-        "projectPath": "C:\\Users\\vytit\\RiderProjects\\SeleniumTesting\\Task1.1\\Task1.1.csproj",
-        "packagesPath": "C:\\Users\\vytit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vytit\\RiderProjects\\SeleniumTesting\\Task1.1\\obj\\",
+        "projectPath": "C:\\Users\\whz1gud\\RiderProjects\\SeleniumTesting\\Task1.1\\Task1.1.csproj",
+        "packagesPath": "C:\\Users\\whz1gud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\whz1gud\\RiderProjects\\SeleniumTesting\\Task1.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vytit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\whz1gud\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -36,7 +36,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
