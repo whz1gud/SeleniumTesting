@@ -1,6 +1,7 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
+using Task3.Pages;
 
 namespace Task3.Base;
 
@@ -9,7 +10,7 @@ public class BaseTest
     protected IWebDriver Driver;
     protected WebDriverWait Wait;
 
-    [OneTimeSetUp]
+    [SetUp]
     public void GlobalSetup()
     {
         var options = new ChromeOptions();
@@ -17,10 +18,9 @@ public class BaseTest
         Driver = new ChromeDriver(options);
         Driver.Manage().Window.Maximize();
         Wait = new WebDriverWait(Driver, TimeSpan.FromSeconds(15));
-        Driver.Navigate().GoToUrl("https://demowebshop.tricentis.com/");
     }
 
-    [OneTimeTearDown]
+    [TearDown]
     public void GlobalTeardown()
     {
         if (Driver != null)
