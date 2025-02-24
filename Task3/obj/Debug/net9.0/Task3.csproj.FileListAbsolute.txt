@@ -213,3 +213,6 @@ C:\Users\whz1gud\RiderProjects\SeleniumTesting\Task3\obj\Debug\net9.0\Task3.genr
 C:\Users\whz1gud\RiderProjects\SeleniumTesting\Task3\obj\Debug\net9.0\ref\Task3.dll
 C:\Users\whz1gud\RiderProjects\SeleniumTesting\Task3\bin\Debug\net9.0\TestData\data1.txt
 C:\Users\whz1gud\RiderProjects\SeleniumTesting\Task3\bin\Debug\net9.0\TestData\data2.txt
+C:\Users\vytit\RiderProjects\SeleniumTesting\Task3\bin\Debug\net9.0\TestData\data1.txt
+C:\Users\vytit\RiderProjects\SeleniumTesting\Task3\bin\Debug\net9.0\TestData\data2.txt
+C:\Users\vytit\RiderProjects\SeleniumTesting\Task3\obj\Debug\net9.0\Task3.sourcelink.json

@@ -29,7 +29,7 @@ public class GlobalUserSetup
         var registerPage = loginPage.GoToRegisterPage();
         
         var credentials = registerPage.RegisterUser(
-            "Antanas", "Bosas", "NepanaudotasEmailPls800@gmail.com",
+            "Antanas", "Bosas", "NepanaudotasEmailPls811@gmail.com",
             "ComplexPassword123*", "ComplexPassword123*");
         
         UserConfigManager.SaveCredentials(credentials);

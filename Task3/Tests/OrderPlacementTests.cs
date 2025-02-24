@@ -4,10 +4,10 @@ using Task3.Pages;
 namespace Task3.Tests;
 
 [TestFixture]
-public class OrderPlacementTest_Data1 : BaseTest
+public class OrderPlacementTests : BaseTest
 {
     [Test]
-    public void OrderPlacement_FromData1Txt_Success()
+    public void OrderPlacement_ReadFromData1Txt_Success()
     {
         Driver.Navigate().GoToUrl("https://demowebshop.tricentis.com/");
         var homePage = new HomePage(Driver, Wait);
@@ -29,7 +29,7 @@ public class OrderPlacementTest_Data1 : BaseTest
     }
     
     [Test]
-    public void OrderPlacement_FromData2Txt_Success()
+    public void OrderPlacement_ReadFromData2Txt_Success()
     {
         Driver.Navigate().GoToUrl("https://demowebshop.tricentis.com/");
         var homePage = new HomePage(Driver, Wait);

@@ -12,5 +12,8 @@
   &lt;Project Location="C:\Users\whz1gud\RiderProjects\SeleniumTesting\TestProject1" Presentation="&amp;lt;TestProject1&amp;gt;" /&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dca57306_002Dc276_002D4092_002D8de7_002D56f16b1d03a5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddElements_AndDeleteElementFromSecondPage_ReturnsToFirstPage #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Project Location="C:\Users\whz1gud\RiderProjects\SeleniumTesting\Task3" Presentation="&amp;lt;Task3&amp;gt;" /&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Project Location="C:\Users\vytit\RiderProjects\SeleniumTesting\Task2" Presentation="&amp;lt;Task2&amp;gt;" /&gt;&#xD;
+    &lt;Project Location="C:\Users\vytit\RiderProjects\SeleniumTesting\Task3" Presentation="&amp;lt;Task3&amp;gt;" /&gt;&#xD;
+  &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

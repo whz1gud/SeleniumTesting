@@ -209,3 +209,4 @@ C:\Users\whz1gud\RiderProjects\SeleniumTesting\Task2\obj\Debug\net9.0\refint\Tas
 C:\Users\whz1gud\RiderProjects\SeleniumTesting\Task2\obj\Debug\net9.0\Task2.pdb
 C:\Users\whz1gud\RiderProjects\SeleniumTesting\Task2\obj\Debug\net9.0\Task2.genruntimeconfig.cache
 C:\Users\whz1gud\RiderProjects\SeleniumTesting\Task2\obj\Debug\net9.0\ref\Task2.dll
+C:\Users\vytit\RiderProjects\SeleniumTesting\Task2\obj\Debug\net9.0\Task2.sourcelink.json
