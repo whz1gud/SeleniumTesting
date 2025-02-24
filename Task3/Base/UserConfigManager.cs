@@ -4,10 +4,13 @@ namespace Task3.Base;
 
 public class UserConfigManager
 {
-    private static readonly string FilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Config", "UserCredentials.json");
+    private static readonly string ProjectBasePath = Directory.GetParent(AppDomain.CurrentDomain.BaseDirectory)
+        .Parent.Parent.Parent.FullName;
+    private static readonly string FilePath = Path.Combine(ProjectBasePath, "Config", "UserCredentials.json");
 
     public static bool CredentialsExist()
     {
+        Console.WriteLine("pb path" + ProjectBasePath);
         Console.WriteLine(FilePath);
         return File.Exists(FilePath) && !string.IsNullOrWhiteSpace(File.ReadAllText(FilePath));
     }

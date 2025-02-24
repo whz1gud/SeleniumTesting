@@ -1,17 +1,18 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AMethodBaseInvoker_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fc73b3c6c598640c592fd3c6fa226c286e90908_003F03_003Fddf4fad7_003FMethodBaseInvoker_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0521d174_002Df57b_002D49f6_002D9387_002Dc3b9309a1b25/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddElements_AndDeleteElementFromSecondPage_ReturnsToFirstPage" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0521d174_002Df57b_002D49f6_002D9387_002Dc3b9309a1b25/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddElements_AndDeleteElementFromSecondPage_ReturnsToFirstPage" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Or&gt;&#xD;
     &lt;TestAncestor&gt;&#xD;
       &lt;TestId&gt;NUnit3x::1DD3A5A5-C807-412C-9557-BD898C891207::net9.0::Task2.Tests.WebTableTests.AddElements_AndDeleteElementFromSecondPage_ReturnsToFirstPage&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
     &lt;Project Location="C:\Users\whz1gud\RiderProjects\SeleniumTesting\Task3" Presentation="&amp;lt;Task3&amp;gt;" /&gt;&#xD;
+    &lt;Project Location="C:\Users\vytit\RiderProjects\SeleniumTesting\Task3" Presentation="&amp;lt;Task3&amp;gt;" /&gt;&#xD;
   &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ae89df02_002D0f9c_002D4c1c_002Daa8f_002Defe0de4d2f79/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from UnitTest1.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Project Location="C:\Users\whz1gud\RiderProjects\SeleniumTesting\TestProject1" Presentation="&amp;lt;TestProject1&amp;gt;" /&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dca57306_002Dc276_002D4092_002D8de7_002D56f16b1d03a5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddElements_AndDeleteElementFromSecondPage_ReturnsToFirstPage #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dca57306_002Dc276_002D4092_002D8de7_002D56f16b1d03a5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddElements_AndDeleteElementFromSecondPage_ReturnsToFirstPage #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Or&gt;&#xD;
     &lt;Project Location="C:\Users\vytit\RiderProjects\SeleniumTesting\Task2" Presentation="&amp;lt;Task2&amp;gt;" /&gt;&#xD;
     &lt;Project Location="C:\Users\vytit\RiderProjects\SeleniumTesting\Task3" Presentation="&amp;lt;Task3&amp;gt;" /&gt;&#xD;
