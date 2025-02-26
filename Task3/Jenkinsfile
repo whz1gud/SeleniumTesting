@@ -1,11 +1,6 @@
 pipeline {
   agent any
   stages {
-    stage('Checkout') {
-      steps {
-        git url: 'git@github.com:whz1gud/SeleniumTesting.git', credentialsId: 'github-ssh-key'
-      }
-    }
     stage('Restore') {
       steps {
         sh 'dotnet restore Task3/Task3.csproj'
