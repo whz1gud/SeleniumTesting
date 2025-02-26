@@ -13,13 +13,13 @@ pipeline {
     }
     stage('Test') {
       steps {
-        sh 'dotnet test Task3/Task3.csproj --configuration Release --no-build'
+        sh 'dotnet test Task3/Task3.csproj --configuration Release --no-build --logger "nunit;LogFileName=TestResults/TestResults.xml"'
       }
     }
   }
   post {
     always {
-      junit '**/TestResults/*.xml'
+      nunit testResultsPattern: 'Task3/TestResults/TestResults.xml'
     }
   }
 }
