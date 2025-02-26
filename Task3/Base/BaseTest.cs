@@ -15,6 +15,9 @@ public class BaseTest
     {
         var options = new ChromeOptions();
         options.AddArgument("ignore-certificate-errors");
+        options.AddArgument("--headless");
+        options.AddArgument("--no-sandbox");
+        options.AddArgument("--disable-dev-shm-usage");
         Driver = new ChromeDriver(options);
         Driver.Manage().Window.Maximize();
         Wait = new WebDriverWait(Driver, TimeSpan.FromSeconds(15));
