@@ -28,8 +28,9 @@ public class GlobalUserSetup
         var loginPage = homePage.GoToLoginPage();
         var registerPage = loginPage.GoToRegisterPage();
         
+        //Use randomized email
         var credentials = registerPage.RegisterUser(
-            "Antanas", "Bosas", "NepanaudotasEmailPls811@gmail.com",
+            "Antanas", "Bosas", "NepanaudotasEmailPls818@gmail.com",
             "ComplexPassword123*", "ComplexPassword123*");
         
         UserConfigManager.SaveCredentials(credentials);
