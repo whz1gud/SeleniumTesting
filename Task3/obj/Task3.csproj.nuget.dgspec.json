@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[3.11.0, )"
             },
+            "JUnitXml.TestLogger": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.11.1, )"

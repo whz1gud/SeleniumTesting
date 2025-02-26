@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EUbf0SUtl+s=",
+  "dgSpecHash": "dYYWnp9Gp0Y=",
   "success": true,
   "projectFilePath": "C:\\Users\\vytit\\RiderProjects\\SeleniumTesting\\Task3\\Task3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vytit\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\vytit\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\vytit\\.nuget\\packages\\junitxml.testlogger\\2.1.10\\junitxml.testlogger.2.1.10.nupkg.sha512",
     "C:\\Users\\vytit\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",
     "C:\\Users\\vytit\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.1\\microsoft.net.test.sdk.17.11.1.nupkg.sha512",
     "C:\\Users\\vytit\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.11.1\\microsoft.testplatform.objectmodel.17.11.1.nupkg.sha512",
@@ -18,5 +19,16 @@
     "C:\\Users\\vytit\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512",
     "C:\\Users\\vytit\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Task3 depends on JunitXml.TestLogger (>= 2.1.1) but JunitXml.TestLogger 2.1.1 was not found. JunitXml.TestLogger 2.1.10 was resolved instead.",
+      "libraryId": "JunitXml.TestLogger",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }
