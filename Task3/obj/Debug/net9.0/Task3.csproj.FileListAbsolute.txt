@@ -216,3 +216,5 @@ C:\Users\whz1gud\RiderProjects\SeleniumTesting\Task3\bin\Debug\net9.0\TestData\d
 C:\Users\vytit\RiderProjects\SeleniumTesting\Task3\bin\Debug\net9.0\TestData\data1.txt
 C:\Users\vytit\RiderProjects\SeleniumTesting\Task3\bin\Debug\net9.0\TestData\data2.txt
 C:\Users\vytit\RiderProjects\SeleniumTesting\Task3\obj\Debug\net9.0\Task3.sourcelink.json
+C:\Users\vytit\RiderProjects\SeleniumTesting\Task3\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Extension.JUnit.Xml.TestLogger.dll
+C:\Users\vytit\RiderProjects\SeleniumTesting\Task3\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Extension.JUnit.Xml.TestAdapter.dll

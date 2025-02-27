@@ -9,6 +9,7 @@
       "Task3/1.0.0": {
         "dependencies": {
           "DotNetSeleniumExtras.WaitHelpers": "3.11.0",
+          "JunitXml.TestLogger": "2.1.10",
           "Microsoft.NET.Test.Sdk": "17.11.1",
           "NUnit": "4.2.2",
           "NUnit.Analyzers": "4.3.0",
@@ -33,6 +34,7 @@
           }
         }
       },
+      "JunitXml.TestLogger/2.1.10": {},
       "Microsoft.CodeCoverage/17.11.1": {
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
@@ -356,6 +358,13 @@
       "sha512": "sha512-xc6jVVl5ymgk3ZNWnC/KHxkEup1QpnwYbrwF+NQoCOGERsD8YMlLwmsX4lGhLXCLo/YQTRTIwlKCN9E/doGUNg==",
       "path": "dotnetseleniumextras.waithelpers/3.11.0",
       "hashPath": "dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512"
+    },
+    "JunitXml.TestLogger/2.1.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-owybQLSRjAGt3TDm9bI+Cp59arUVbXwGlzUNX7JHhgFKKyilqhKjR/CEtL6Yr9QzR9v552UahowCHSIPgMMOdQ==",
+      "path": "junitxml.testlogger/2.1.10",
+      "hashPath": "junitxml.testlogger.2.1.10.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/17.11.1": {
       "type": "package",

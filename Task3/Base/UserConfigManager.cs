@@ -10,8 +10,6 @@ public class UserConfigManager
 
     public static bool CredentialsExist()
     {
-        Console.WriteLine("pb path" + ProjectBasePath);
-        Console.WriteLine(FilePath);
         return File.Exists(FilePath) && !string.IsNullOrWhiteSpace(File.ReadAllText(FilePath));
     }
 
