@@ -19,12 +19,6 @@ class Program
 
         // Gift Card Flow
         ProcessGiftCards(driver, wait);
-        /**
-         * homePage.openGiftCardsView()
-         *  .addToCard(100)
-         *  Pasiziuret Page Object Model (POM) in Selenium - design pattern
-         * 
-         */
 
         // Jewelry Flow
         ProcessJewelry(driver, wait);
