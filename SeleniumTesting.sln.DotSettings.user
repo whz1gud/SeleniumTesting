@@ -7,10 +7,12 @@
     &lt;TestId&gt;NUnit3x::A17DA0A2-DD56-438F-832A-5AF92E537AEC::net9.0::Task4.Tests.PollVoteTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ae89df02_002D0f9c_002D4c1c_002Daa8f_002Defe0de4d2f79/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from UnitTest1.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Project Location="C:\Users\whz1gud\RiderProjects\SeleniumTesting\TestProject1" Presentation="&amp;lt;TestProject1&amp;gt;" /&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ae89df02_002D0f9c_002D4c1c_002Daa8f_002Defe0de4d2f79/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from UnitTest1.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A17DA0A2-DD56-438F-832A-5AF92E537AEC::net9.0::Task4.Tests.PollVoteTests.PollVote_IncrementsCount&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dca57306_002Dc276_002D4092_002D8de7_002D56f16b1d03a5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddElements_AndDeleteElementFromSecondPage_ReturnsToFirstPage #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dca57306_002Dc276_002D4092_002D8de7_002D56f16b1d03a5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddElements_AndDeleteElementFromSecondPage_ReturnsToFirstPage #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A17DA0A2-DD56-438F-832A-5AF92E537AEC::net9.0::Task4.Tests.PollVoteTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;

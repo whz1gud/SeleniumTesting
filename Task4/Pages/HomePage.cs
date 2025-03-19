@@ -50,4 +50,15 @@ public class HomePage
         Wait.Until(ExpectedConditions.ElementIsVisible(_pollOption1)).Click();
         Driver.FindElement(_voteButton).Click();
     }
+
+    public bool LoginLinkExists()
+    {
+        Wait.Until(ExpectedConditions.ElementIsVisible(_loginItem));
+        return Driver.FindElement(_loginItem).Text.Trim().Equals("Log in");
+    }
+
+    public bool PollVoteSuccess()
+    {
+        return Wait.Until(ExpectedConditions.ElementIsVisible(_pollItem)).Displayed;
+    }
 }
