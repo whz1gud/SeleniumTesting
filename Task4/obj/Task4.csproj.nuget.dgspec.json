@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\whz1gud\\RiderProjects\\SeleniumTesting\\Task4\\Task4.csproj": {}
+    "C:\\Users\\vytit\\RiderProjects\\SeleniumTesting\\Task4\\Task4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\whz1gud\\RiderProjects\\SeleniumTesting\\Task4\\Task4.csproj": {
+    "C:\\Users\\vytit\\RiderProjects\\SeleniumTesting\\Task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\whz1gud\\RiderProjects\\SeleniumTesting\\Task4\\Task4.csproj",
+        "projectUniqueName": "C:\\Users\\vytit\\RiderProjects\\SeleniumTesting\\Task4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "C:\\Users\\whz1gud\\RiderProjects\\SeleniumTesting\\Task4\\Task4.csproj",
-        "packagesPath": "C:\\Users\\whz1gud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\whz1gud\\RiderProjects\\SeleniumTesting\\Task4\\obj\\",
+        "projectPath": "C:\\Users\\vytit\\RiderProjects\\SeleniumTesting\\Task4\\Task4.csproj",
+        "packagesPath": "C:\\Users\\vytit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vytit\\RiderProjects\\SeleniumTesting\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\whz1gud\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\vytit\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -36,7 +36,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -97,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
